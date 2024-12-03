@@ -9,8 +9,6 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | :----------------------------------------- | :--------------------------------------------------------------: |
 | Ctrl + B                                   |                   Mostrar ou ocultar a Sidebar                   |
 | Ctrl + Shift + P                           |                 Mostrar **paletas** de comandos                  |
-| Ctrl + Alt + ↑                             |                      Adicionar cursor acima                      |
-| Ctrl + Alt + ↓                             |                     Adicionar cursor abaixo                      |
 | Ctrl + Shift + O                           |         Procura todos simbolos contidos no arquivo .html         |
 | Ctrl + ' (aspas simples ou plicas)         |                   Mostrar ou ocultar terminal                    |
 | Ctrl + Shift + ' (aspas simples ou plicas) |    Selecionar um terminal já aberto ou Abrir um novo terminal    |
@@ -19,15 +17,44 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | (Shift +) F8                               |              Navegar entre  problemas encontrados.               |
 
 ## Arquivos
+| Atalho              |                            Ação                             |
+| :------------------ | :---------------------------------------------------------: |
+| Ctrl + W            |                    Fechar arquivo atual                     |
+| Ctrl + Shift + O    |            Reabrir arquivo anteriormente fechado            |
+| Alt + Shift + F     |                      Identar o código                       |
+| Alt + ← ou →        |                Mover entre arquivos abertos                 |
+| Alt + Shift + →     |             Abre o arquivo atual numa nova aba              |
+| Alt + Shift + V     |               Previsualiza um arquivo **.MD**               |
+| Ctrl + K e depois V |                     Mesma ação anterior                     |
+| F2                  |            Alterar todas ocorrências de um item             |
+| Ctrl + Space        |                        Autocomplete                         |
+| F12                 |                   Mostrar a implementação                   |
+| Alt + F12           | Mostrar a implementação com sem abrir outro arquivo - Popup |
+| Alt + Shift + F12   |          Mostrar todas ocorrência da implementação          |
+| Shift + F12         |      Mostrar todas ocorrência da implementação - Popup      |
+
+
+
+## Linhas
 | Atalho                     |                         Ação                          |
 | :------------------------- | :---------------------------------------------------: |
-| Ctrl + W                   |                 Fechar arquivo atual                  |
-| Ctrl + Shift + O           |         Reabrir arquivo anteriormente fechado         |
-| Alt + Shift + F            |                   Identar o código                    |
-| Alt + ← ou →               |             Mover entre arquivos abertos              |
-| Alt + Shift + →            |          Abre o arquivo atual numa nova aba           |
-| Alt + Shift + V            |            Previsualiza um arquivo **.MD**            |
-| Ctrl + K e depois V        |                  Mesma ação anterior                  |
-| F2                         |         Alterar todas ocorrências de um item          |
+| Ctrl + L                   |              Selecionar a linha inteira               |
+| Ctrl + D                   |             Selecionar a palavra inteira              |
 | Ctrl + D (mais de uma vez) | Mesma ação anterior só que selecionando item por item |
-| Ctrl + Space               |                     Autocomplete                      |
+| Ctrl + X                   |              Recortar item selecionando               |
+| Ctrl + X                   |              Recortar item selecionando               |
+| Ctrl + Alt + ↑             |                Adicionar cursor acima                 |
+| Ctrl + Alt + ↓             |                Adicionar cursor abaixo                |
+| Alt + ↓                    |               Move a linha para abaixo                |
+| Alt + ↑                    |                Move a linha para acima                |
+| Alt + Shift + ↑            |              Duplica a linha para acima               |
+| Alt + Shift + ↓            |              Duplica a linha para baixo               |
+| Home                       |      Coloca o curso no início da linha identada       |
+| Home (2X)                  |                 Início real da linha                  |
+| End                        |               Início da linha identada                |
+| Shift + Home               |       Seleciona do curso para o início da linha       |
+| Shift + End                |       Seleciona do curso para o início da linha       |
+| Shift + Delete             |                Exclui a linha inteira                 |
+
+
+
