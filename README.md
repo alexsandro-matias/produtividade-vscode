@@ -42,7 +42,8 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | Ctrl + D                   |             Selecionar a palavra inteira              |
 | Ctrl + D (mais de uma vez) | Mesma ação anterior só que selecionando item por item |
 | Ctrl + X                   |              Recortar item selecionando               |
-| Ctrl + X                   |              Recortar item selecionando               |
+| Ctrl + V                   |                Colar item selecionando                |
+| Ctrl + G                   |              Selecionar a linha desejada              |
 | Ctrl + Alt + ↑             |                Adicionar cursor acima                 |
 | Ctrl + Alt + ↓             |                Adicionar cursor abaixo                |
 | Alt + ↓                    |               Move a linha para abaixo                |
@@ -57,4 +58,7 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | Shift + Delete             |                Exclui a linha inteira                 |
 
 
-
+## Paleta de Comandos
+| Atalho                 |            Ação            |
+| :--------------------- | :------------------------: |
+| F1 ou Ctrl + Shift + P | Abrir a paleta de comandos |
