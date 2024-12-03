@@ -62,3 +62,11 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | Atalho                 |            Ação            |
 | :--------------------- | :------------------------: |
 | F1 ou Ctrl + Shift + P | Abrir a paleta de comandos |
+
+
+## Temas
+| Atalho                 |            Ação            |
+| :--------------------- | :------------------------: |
+| F1 ou Ctrl + Shift + P | Abrir a paleta de comandos |
+
+
