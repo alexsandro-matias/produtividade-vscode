@@ -64,9 +64,11 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | F1 ou Ctrl + Shift + P | Abrir a paleta de comandos |
 
 
-## Temas
-| Atalho                 |            Ação            |
-| :--------------------- | :------------------------: |
-| F1 ou Ctrl + Shift + P | Abrir a paleta de comandos |
+## Emmets
+| Atalho       |                          Efeito                          |
+| :----------- | :------------------------------------------------------: |
+| Child: **>** |                     Elementos filhos                     |
+| ul>li*5      | Elemento 5 elementos **li** contidos num elemento **lu** |
+| a{Click me}  |                 **<a href="">**Click me**</a>**                  |
 
 
