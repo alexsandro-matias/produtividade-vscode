@@ -69,6 +69,6 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 | :----------- | :------------------------------------------------------: |
 | Child: **>** |                     Elementos filhos                     |
 | ul>li*5      | Elemento 5 elementos **li** contidos num elemento **lu** |
-| a{Click me}  |                 **<a href="">**Click me**</a>**                  |
+| a{Click me}  |             **<a href="">**Click me**</a>**              |
 
 
